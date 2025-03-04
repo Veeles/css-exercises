@@ -1,0 +1,18 @@
+.click {
+    cursor: pointer;
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+
+.all {
+    padding: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+.no-click{
+    background-color: yellow;
+
+}
